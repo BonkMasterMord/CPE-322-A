@@ -1,7 +1,7 @@
 # CPE-322-A
 
-#H1  **Hello**
-##H2 **My name is Anthony Huang**
+#**Hello**
+##**My name is Anthony Huang**
 
 *Be Loyal to what matters* - *Arthur Morgan*
 
@@ -16,7 +16,9 @@
 - Pho noodles
 - Fried Chicken Sandwich 
 
-Follow me on GitHub!
+Follow me on GitHub! [My Github](https://github.com/BonkMasterMord)
+
+![alt text]()
 
 
 
