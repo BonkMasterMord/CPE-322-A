@@ -12,7 +12,7 @@
 4. I am now currently a body builder
 ---
 >Favorite foods
-- Chiken and Brocoli
+- Chicken and Broccoli
 - Pho noodles
 - Fried Chicken Sandwich 
 
