@@ -1,7 +1,7 @@
 # CPE-322-A
 
-#**Hello**
-##**My name is Anthony Huang**
+# **Hello**
+## **My name is Anthony Huang**
 
 *Be Loyal to what matters* - *Arthur Morgan*
 
