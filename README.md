@@ -18,7 +18,7 @@
 
 Follow me on GitHub! [My Github](https://github.com/BonkMasterMord)
 
-![alt text](arthur morgan.jpg)
+![alt text](arthurmorgan.jpg)
 
 
 
