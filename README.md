@@ -16,7 +16,7 @@
 - Pho noodles
 - Fried Chicken Sandwich 
 
-Follow me on GitHub! [My Github](https://github.com/BonkMasterMord)
+Follow me on GitHub! [My GitHub](https://github.com/BonkMasterMord)
 
 ![ArthurMorgan](arthurMorgan.jpg)
 
