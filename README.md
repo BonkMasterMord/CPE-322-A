@@ -3,11 +3,11 @@
 # **Hello**
 ## **My name is Anthony Huang**
 
-*Be Loyal to what matters* - *Arthur Morgan*
+>*Be Loyal to what matters* - *Arthur Morgan*
 
 >Here are somethings about me..
 1. I have built desktop computers
-2. I can solve a rubiks cube in under a minute
+2. I can solve a Rubik's cube in under a minute
 3. I was on varsity tennis during highschool
 4. I am now currently a body builder
 ---
