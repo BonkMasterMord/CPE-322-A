@@ -5,3 +5,9 @@
 - Open a terminal
 
 ![alt text](ss1.PNG)
+![alt text](ss2.PNG)
+![alt text](ss3.PNG)
+![alt text](ss4.PNG)
+![alt text](ss5.PNG)
+
+
