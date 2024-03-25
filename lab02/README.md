@@ -4,4 +4,4 @@
 - Study Lessons 1 and 2
 - Open a terminal
 
-![alt text](ss1.png)
+![alt text](ss1.PNG)
