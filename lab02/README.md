@@ -4,6 +4,8 @@
 - Study Lessons 1 and 2
 - Open a terminal
 
+**Below are the results after inputing commands**
+---
 ![alt text](ss1.PNG)
 ![alt text](ss2.PNG)
 ![alt text](ss3.PNG)
